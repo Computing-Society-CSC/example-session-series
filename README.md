@@ -14,6 +14,9 @@ Each session repository serves as an archive of session materials, ensuring acce
 
 
 ---
+## Example by host
+
+📄 [Project 1](https://github.com/Computing-Society-CSC/.github)
 
 ## 🎓 Member's Work
 
